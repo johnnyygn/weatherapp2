@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherAPP</string>
+    <string name="action_refresh">Refresh Weather</string>
+    <string name="action_city">Change City</string>
+    <string name="downloading_data">Downloading data …</string>
+    <string name="parsing_error">Error parsing XML</string>
+    <string name="internet_error">Internet not available.</string>
+    <string name="updated_on">Last updated on \n%s</string>
+</resources>
